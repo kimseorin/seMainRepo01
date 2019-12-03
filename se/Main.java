@@ -2,6 +2,7 @@ package se;
 
 // 1: remote by kimseorin
 // 2: local by kimseorin
+// 2: remote by kimseorin
 public class Main {
 
 	public static void main(String[] args) {
